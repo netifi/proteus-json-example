@@ -1,0 +1,5 @@
+rootProject.name = 'proteus-json-example'
+include 'client'
+include 'om'
+include 'service'
+
